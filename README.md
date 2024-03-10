@@ -40,6 +40,6 @@ node reverse.js
 
 2. Inserir uma String: Após executar o script, você será solicitado a digitar uma palavra. Esta palavra será invertida.
 
-3. nversão: O script irá exibir a palavra inserida invertida.
+3. Inversão: O script irá exibir a palavra inserida invertida.
 
 4. Inverter Outra Palavra: Após a inversão, você será perguntado se deseja inverter outra palavra. Digite `s` para sim ou `n` para não.
