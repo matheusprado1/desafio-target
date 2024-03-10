@@ -43,3 +43,23 @@ node reverse.js
 3. Inversão: O script irá exibir a palavra inserida invertida.
 
 4. Inverter Outra Palavra: Após a inversão, você será perguntado se deseja inverter outra palavra. Digite `s` para sim ou `n` para não.
+
+## Questão 4)
+
+### Você está em uma sala com três interruptores, cada um conectado a uma lâmpada em uma sala diferente. Você não pode ver as lâmpadas da sala em que está, mas pode ligar e desligar os interruptores quantas vezes quiser. Seu objetivo é descobrir qual interruptor controla qual lâmpada.
+
+Como você faria para descobrir, usando apenas duas idas até uma das salas das lâmpadas, qual interruptor controla cada lâmpada?
+
+1- Primeiro, ligaremos o interruptor 1 na segunda sala e deixaremos a lâmpada acesa por um tempo.
+
+2- Em seguida, desligaremos o interruptor 1.
+
+3- Agora, ligaremos o interruptor 2 na segunda sala e deixaremos a lâmpada acesa.
+
+4- Finalmente, iremos até a primeira sala.
+
+Agora, podemos concluir que:
+
+- A lâmpada que estiver acesa corresponde ao interruptor 2.
+- A lâmpada que estiver quente corresponde ao interruptor 1.
+- A única lâmpada que restar é a do interruptor 3. 
